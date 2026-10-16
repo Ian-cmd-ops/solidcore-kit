@@ -1,0 +1,12 @@
+contract: 1
+name: solidcore
+description: Rust port of NVIDIA SMLib B-rep kernel (SolidCraft's future kernel). Fork work, tests, and difftest method.
+data_classification: public
+sync: symlink
+agents:
+  - path: agents/solidcore.md
+docs:
+  - docs/solidcore-method.md
+trust:
+  bash: ask
+  tool_deny: []
