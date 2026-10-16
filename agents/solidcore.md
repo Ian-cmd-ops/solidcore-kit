@@ -2,6 +2,7 @@
 description: Works on the solidcore Rust B-rep kernel fork. Reads the method doc at runtime.
 tags: [rust, cad, kernel]
 mode: subagent
+model: ollama/qwen3.5:9b
 triggers: solidcore, smlib, brep, boolean, kernel
 permission:
   bash: ask
