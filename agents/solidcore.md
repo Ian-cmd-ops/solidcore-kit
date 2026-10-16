@@ -17,3 +17,4 @@ Rules:
 - Work only in the fork `Ian-cmd-ops/solidcore`, in a branch.
 - Never push to `tangency-labs/solidcore`. The user sends upstream PRs.
 - Run the checks in the method doc before every commit.
+- Never read plan/PROGRESS.md or AGENTS.md in full. Use grep for the unit id, then read only those lines.
