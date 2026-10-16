@@ -21,3 +21,7 @@ harness/cpp/build.sh) and the cpp feature:
 Contribution rule: one PR per port unit. Draft PR titled "port: <unit id>".
 Booleans and fillets are not ported yet. Check plan/PROGRESS.md before you
 plan boolean work.
+
+Repo path: /home/ian/Projects/solidcore
+Run cd /home/ian/Projects/solidcore before any repo command.
+Paths such as plan/PROGRESS.md are relative to that folder.
